@@ -1,0 +1,68 @@
+<body style="margin: 0; padding: 0;">
+    <table style="width: 100%; margin: 0; padding: 0;">
+<tr style="margin: 0; padding: 0;">
+<td style="margin: 0; padding: 0;">
+                <img src="http://amelo.fvi-grad.com/gndead-images/godsnotdead.jpg" alt="" style="width: 100%;">
+</td>
+
+        </tr>
+<tr style="margin: 0; padding: 0;">
+<td class="title" style="font-size: 50px; text-align: center; font-family: verdana; color: #303030; background: #bfbfbf; margin: 0; padding: 0;" align="center" bgcolor="#bfbfbf">
+                Pelicula Cristiana
+            </td>
+        </tr>
+<tr style="margin: 0; padding: 0;">
+<td style="margin: 0; padding: 0;">
+                <table class="grid" style="max-width: 700px; width: 100%; margin: 0 auto; padding: 0;">
+<tr style="margin: 0; padding: 0;">
+<td style="text-align: center; width: 50%; margin: 0; padding: 0;" align="center"><img src="http://amelo.fvi-grad.com/gndead-images/godsnotdeadsequel.jpg" alt="" style="width: 100%;"></td>
+                        <td style="text-align: center; width: 50%; margin: 0; padding: 0;" align="center">
+                            <table style="width: 100%; margin: 0; padding: 0;">
+<tr style="margin: 0; padding: 0;">
+<td class="sub" style="text-align: center; width: 50%; font-size: 1.5rem; margin: 0; padding: 0;" align="center">God's Not Dead</td>
+                                </tr>
+<tr style="margin: 0; padding: 0;">
+<td style="text-align: center; width: 50%; margin: 0; padding: 0;" align="center">Josh Wheaton, an evangelical college student, enrolls in a philosophy class taught by Professor Jeffrey Radisson, an atheist, who demands his students sign a declaration that "God is dead" to pass. Josh is the only student who refuses to sign. Radisson requires Josh to debate the topic with him but agrees to let the class members decide the winner. Radisson gives Josh twenty minutes at the end of the first three lecture sessions to argue that God exists.</td>
+                                </tr>
+</table>
+</td>
+                    </tr>
+<tr style="margin: 0; padding: 0;">
+<td style="text-align: center; width: 50%; margin: 0; padding: 0;" align="center">
+                            <table style="width: 100%; margin: 0; padding: 0;">
+<tr style="margin: 0; padding: 0;">
+<td class="sub" style="text-align: center; width: 50%; font-size: 1.5rem; margin: 0; padding: 0;" align="center">Actores</td>
+                                </tr>
+<tr style="margin: 0; padding: 0;">
+<td style="text-align: center; width: 50%; margin: 0; padding: 0;" align="center">Shane Harper as Josh Wheaton
+                                        Kevin Sorbo as Professor Jeffery Radisson
+                                        David A. R. White as Reverend Dave
+                                        Trisha LaFache as Amy Ryan
+                                        Hadeel Sittu as Ayisha
+                                        Marco Khan as Misrab
+                                        Cory Oliver as Mina
+                                        Dean Cain as Mark
+                                        Jim Gleason as Ward Wheaton
+                                        Benjamin Onyango as Reverend Jude
+                                        Cassidy Gifford as Kara
+                                        Paul Kwo as Martin Yip
+                                        Newsboys as themselves
+                                        Willie Robertson as himself
+                                        Korie Robertson as herself
+
+</td>
+                                </tr>
+</table>
+</td>
+                        <td style="text-align: center; width: 50%; margin: 0; padding: 0;" align="center"><img src="http://amelo.fvi-grad.com/gndead-images/GODS_NOT_DEAD_2_QUAD_V0j-e1460583691506.jpg" alt="" style="width: 100%;"></td>
+                    </tr>
+</table>
+</td>
+        </tr>
+<tr style="margin: 0; padding: 0;">
+<td class="fin" style="font-size: 50px; text-align: center; font-family: Courier; color: #efefef; background: #bfbfbf; margin: 0; padding: 0;" align="center" bgcolor="#bfbfbf">
+                Estreno muy pronto
+            </td>
+        </tr>
+</table>
+</body>
